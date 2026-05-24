@@ -1,3 +1,4 @@
-# B-cell Epitopes
+# Linear B-Cell Epitopes
+Contains the initial list of predicted linear B-cell epitopes.
 
-Contains predicted linear and conformational B-cell epitopes generated using immunoinformatics tools such as BepiPred, ABCpred, BCEpred, and associated screening analyses.
+**Required File:** `5.6.1_B_cell_epitopes_predicted.csv`
