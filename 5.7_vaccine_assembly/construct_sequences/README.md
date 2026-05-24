@@ -1,3 +1,4 @@
 # Construct Sequences
+Contains the final assembled amino acid sequence of the vaccine construct, including the adjuvant, linkers (EAAAK, AAY, GPGPG, KK), and selected epitopes.
 
-Contains assembled vaccine construct sequences, including epitope arrangements, linker combinations, adjuvant integration, and FASTA sequence files.
+**Required File:** `vaccine_construct_sequence.fasta`
