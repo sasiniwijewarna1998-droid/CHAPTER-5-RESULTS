@@ -1,3 +1,4 @@
 # Figures
+Contains visualizations (e.g., from PyMOL or Chimera) showing the structural localization of the conformational epitopes on the 3D vaccine model.
 
-Contains graphical representations and three-dimensional visualizations of predicted conformational epitopes mapped onto vaccine construct structures.
+**Required File:** `conformational_epitopes_3D_view.png`
