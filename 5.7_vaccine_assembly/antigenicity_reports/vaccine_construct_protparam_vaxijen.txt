@@ -1,0 +1,11 @@
+--- Vaccine Construct Profiling ---
+Molecular Weight: 
+Isoelectric Point (pI): 
+Instability Index: 
+Aliphatic Index: 
+GRAVY Score: 
+
+--- Immunological Properties ---
+VaxiJen Score (Antigenicity): 
+AllerTOP (Allergenicity): 
+ToxinPred (Toxicity): 
