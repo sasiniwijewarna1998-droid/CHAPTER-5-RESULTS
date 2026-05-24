@@ -1,3 +1,4 @@
-# LigPlot Analysis
+# LigPlot / Interaction Figures
+Contains 2D diagrams (e.g., from LigPlot+ or PDBsum) or 3D visualizations showing the specific interacting residues at the binding interface.
 
-Contains two-dimensional interaction visualizations generated using LigPlot or similar tools to illustrate molecular interactions between vaccine constructs and receptors.
+**Required File:** `docking_ligplot_interactions.png`
