@@ -1,3 +1,4 @@
 # Accession Lists
+This folder contains the master list of all GenBank/UniProt accession IDs utilized in this study.
 
-This folder contains accession numbers and metadata information for DENV and ZIKV sequences.
+**Required File:** `accession_numbers_list.csv`
