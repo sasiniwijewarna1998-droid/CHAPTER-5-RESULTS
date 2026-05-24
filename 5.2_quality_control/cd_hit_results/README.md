@@ -1,3 +1,4 @@
 # CD-HIT Results
+Contains the clustering reports and logs from CD-HIT used to remove redundancy at the specified sequence identity threshold.
 
-Contains redundancy reduction outputs and clustering reports generated using CD-HIT.
+**Required File:** `cd_hit_redundancy_report.txt`
