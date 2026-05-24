@@ -1,3 +1,4 @@
 # Receptors
+Contains the cleaned 3D structure of the target immune receptor(s) (e.g., TLR2 or TLR4) used for docking.
 
-Contains receptor structural files used for molecular docking analyses, including immune receptors and associated preprocessing outputs.
+**Required File:** `receptor_tlr.pdb`
