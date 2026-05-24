@@ -1,3 +1,4 @@
 # ElliPro Results
+Contains the tabular output from ElliPro detailing the predicted discontinuous epitopes, their corresponding residues, and scores.
 
-Contains conformational B-cell epitope prediction outputs generated using ElliPro, including residue information, protrusion indices, and predicted epitope regions.
+**Required File:** `conformational_epitopes_ellipro.csv`
