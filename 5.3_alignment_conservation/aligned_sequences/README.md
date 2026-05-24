@@ -1,3 +1,4 @@
 # Aligned Sequences
+Contains the multiple sequence alignment (MSA) of the filtered protein sequences.
 
-Contains multiple sequence alignment outputs generated using MAFFT and related alignment files.
+**Included File:** `aligned_dengue_zika.fasta`
