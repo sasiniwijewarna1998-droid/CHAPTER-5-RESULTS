@@ -1,3 +1,4 @@
 # Interaction Analysis
+Contains a summary table of the molecular interactions (hydrogen bonds, salt bridges, hydrophobic contacts) between the vaccine and the receptor.
 
-Contains interaction profiles and summaries including hydrogen bonds, salt bridges, interface residues, and docking scores obtained from vaccine–receptor interactions.
+**Required File:** `docking_interaction_summary.csv`
