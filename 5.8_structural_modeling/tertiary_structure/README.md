@@ -1,3 +1,4 @@
-# Tertiary Structure Modeling
+# Tertiary Structure
+Contains the initial, unrefined 3D model of the vaccine construct (e.g., generated via AlphaFold, RoseTTAFold, or I-TASSER).
 
-Contains predicted three-dimensional structural models generated using computational structure prediction tools such as AlphaFold2 or ColabFold.
+**Required File:** `unrefined_model.pdb`
