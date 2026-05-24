@@ -1,3 +1,4 @@
 # SnapGene Files
+Contains the raw construct file (e.g., .dna format from SnapGene) for the simulated cloning.
 
-Contains SnapGene project files and construct visualizations generated for in silico cloning and vector integration analyses.
+**Required File:** `snapgene_construct.dna`
