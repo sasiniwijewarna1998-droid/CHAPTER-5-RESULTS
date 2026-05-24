@@ -1,3 +1,4 @@
 # Consensus Sequences
+Contains the consensus sequence derived from the multiple sequence alignment, representing the most frequent amino acids at each position.
 
-Contains generated consensus sequences and representative conserved sequence datasets.
+**Included File:** `consensus_sequence.fasta`
