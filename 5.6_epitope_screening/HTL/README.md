@@ -1,3 +1,4 @@
-# HTL Epitopes
+# Helper T Lymphocyte (HTL) Epitopes
+Contains the initial list of predicted MHC Class II (HTL) epitopes.
 
-Contains Helper T Lymphocyte (HTL) epitope predictions generated using MHC-II prediction tools and associated filtering analyses.
+**Required File:** `5.6.3_HTL_epitopes_predicted.csv`
