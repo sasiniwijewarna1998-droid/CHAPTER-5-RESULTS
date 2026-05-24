@@ -1,3 +1,2 @@
 # Tree Visualization
-
-Contains phylogenetic tree visualizations generated using MEGA, iTOL, FigTree, or other visualization tools.
+Contains raw visualizations of the tree before detailed annotation (e.g., from FigTree or iTOL).
