@@ -1,0 +1,76 @@
+IQ-TREE multicore version 2.2.2.7 COVID-edition for Linux 64-bit built Jun  7 2023
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    06a9304649e0 (AVX512, FMA3, 31 GB RAM)
+Command: iqtree -s /workspace/session/aligned_dengue_zika.fasta -pre /workspace/session/output -T 4 -m LG+G4 -fast -redo
+Seed:    390533 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Mar 24 14:57:55 2026
+Kernel:  AVX+FMA - 4 threads (4 CPU cores detected)
+
+Reading alignment file /workspace/session/aligned_dengue_zika.fasta ... Fasta format detected
+Reading fasta file: done in 0.147836 secs using 84.19% CPU
+Alignment most likely contains protein sequences
+Constructing alignment: done in 0.149286 secs using 71.75% CPU
+Alignment has 1934 sequences with 3439 columns, 2626 distinct patterns
+2101 parsimony-informative, 547 singleton sites, 791 constant sites
+Analyzing sequences: done in 0.0185913 secs using 405.7% CPU
+Checking for duplicate sequences: done in 0.0302294 secs using 325.6% CPU
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 15.34 seconds
+
+NOTE: 3164 MB RAM (3 GB) is required!
+Estimate model parameters (epsilon = 0.50)
+1. Initial log-likelihood: -114982.18
+2. Current log-likelihood: -114519.42
+3. Current log-likelihood: -114504.80
+Optimal log-likelihood: -114504.41
+Gamma shape alpha: 0.69
+Parameters optimization took 3 rounds (111.64 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 193.32 secs using 396.7% CPU
+Computing ML distances took 193.353020 sec (of wall-clock time) 767.040364 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.0459163 secs using 243.6% CPU
+Constructing RapidNJ tree: done in 1.74795 secs using 112.8% CPU
+Computing RapidNJ tree took 1.794328 sec (of wall-clock time) 2.084320 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -118652.749
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+
+Do NNI search on 2 best initial trees
+Optimizing NNI: done in 200.948 secs using 396% CPU
+Estimate model parameters (epsilon = 0.500)
+BETTER TREE FOUND at iteration 1: -114425.395
+Optimizing NNI: done in 491.568 secs using 396.1% CPU
+Finish initializing candidate tree set (4)
+Current best tree score: -114425.395 / CPU time: 722.999
+Number of iterations: 2
+TREE SEARCH COMPLETED AFTER 2 ITERATIONS / Time: 0h:19m:7s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.050)
+1. Initial log-likelihood: -114425.395
+Optimal log-likelihood: -114425.395
+Gamma shape alpha: 0.686
+Parameters optimization took 1 rounds (30.547 sec)
+BEST SCORE FOUND : -114425.395
+Total tree length: 6.177
+
+Total number of iterations: 2
+CPU time used for tree search: 2860.041 sec (0h:47m:40s)
+Wall-clock time used for tree search: 723.007 sec (0h:12m:3s)
+Total CPU time used: 4583.438 sec (1h:16m:23s)
+Total wall-clock time used: 1178.161 sec (0h:19m:38s)
+
+Analysis results written to: 
+  IQ-TREE report:                /workspace/session/output.iqtree
+  Maximum-likelihood tree:       /workspace/session/output.treefile
+  Likelihood distances:          /workspace/session/output.mldist
+  Screen log file:               /workspace/session/output.log
+
+Date and Time: Tue Mar 24 15:17:35 2026
