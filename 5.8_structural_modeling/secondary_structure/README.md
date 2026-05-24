@@ -1,3 +1,4 @@
-# Secondary Structure Prediction
+# Secondary Structure
+Contains predictions of the secondary structure components (alpha helices, beta sheets, coils).
 
-Contains secondary structural prediction outputs including alpha-helices, beta-strands, and random coil distributions generated for vaccine constructs.
+**Included File:** `secondary_structure_prediction.png`
