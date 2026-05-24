@@ -1,3 +1,4 @@
-# JCat Reports
+# JCat Optimization Reports
+Contains the evaluation report of the codon optimization process, including the Codon Adaptation Index (CAI) and GC content percentage.
 
-Contains codon adaptation and optimization reports generated using JCat, including Codon Adaptation Index (CAI), GC content, and sequence optimization metrics.
+**Required File:** `jcat_optimization_report.txt`

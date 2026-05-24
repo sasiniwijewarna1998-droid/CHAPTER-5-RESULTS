@@ -1,0 +1,9 @@
+--- Codon Optimization Report (e.g., JCat) ---
+Host Organism: Escherichia coli (strain K12)
+
+Codon Adaptation Index (CAI): 
+GC Content (%): 
+
+Notes: 
+- Ideal CAI is > 0.8 (1.0 is maximum).
+- Ideal GC content is between 30% and 70%.
