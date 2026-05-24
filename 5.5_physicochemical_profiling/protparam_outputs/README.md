@@ -1,3 +1,4 @@
 # ProtParam Outputs
+Contains the tabular output of physicochemical properties calculated using Biopython's ProtParam module.
 
-Contains ExPASy ProtParam results for conserved domains and vaccine constructs, including molecular weight, theoretical pI, amino acid composition, instability index, aliphatic index, and hydropathicity profiles.
+**Included File:** `conserved_domains_protparam.csv`

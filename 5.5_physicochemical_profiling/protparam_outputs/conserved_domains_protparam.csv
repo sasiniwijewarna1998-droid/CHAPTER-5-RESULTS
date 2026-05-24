@@ -1,0 +1,2 @@
+Sequence_Length,Molecular_Weight_kDa,Isoelectric_Point_pI,Instability_Index,Stable,GRAVY_Score,Ext_Coef_Cys_reduced,Ext_Coef_Cys_residues,Helix_Fraction,Turn_Fraction,Sheet_Fraction
+3391,378.35,8.53,33.96,Yes,-0.185,636770,640395,0.331,0.26,0.38
