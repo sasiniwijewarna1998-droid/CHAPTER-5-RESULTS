@@ -1,3 +1,4 @@
 # Optimized Sequences
+Contains the codon-optimized DNA sequence of the vaccine construct, tailored for the chosen expression host (e.g., E. coli K12).
 
-Contains reverse-translated and codon-optimized nucleotide sequences generated for enhanced expression in the selected host organism.
+**Required File:** `codon_optimized_dna.fasta`
