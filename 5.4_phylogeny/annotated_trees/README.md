@@ -1,3 +1,2 @@
 # Annotated Trees
-
-Contains publication-ready annotated phylogenetic trees with color coding, labels, bootstrap values, and clustering information.
+Contains the final, publication-ready annotated phylogenetic trees (e.g., colored by serotype, geography, or host).
