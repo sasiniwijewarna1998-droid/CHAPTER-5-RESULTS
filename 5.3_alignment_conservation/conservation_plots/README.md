@@ -1,3 +1,4 @@
 # Conservation Plots
+Contains plots visualizing the conservation scores or Shannon entropy across the alignment to highlight conserved domains.
 
-Contains conservation score visualizations, entropy plots, and graphical representations of conserved regions.
+**Required File:** `conservation_entropy_plot.png`
