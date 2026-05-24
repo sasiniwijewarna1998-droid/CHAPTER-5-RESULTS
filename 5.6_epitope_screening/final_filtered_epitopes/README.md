@@ -1,3 +1,4 @@
 # Final Filtered Epitopes
+Contains the final selected epitopes that passed all antigenicity, allergenicity, and toxicity filters, ready for vaccine assembly.
 
-Contains the final shortlisted epitopes selected after screening for antigenicity, allergenicity, toxicity, immunogenicity, conservation, and overlapping properties for downstream vaccine construct development.
+**Required File:** `final_filtered_overlapped_epitopes.xlsx`
