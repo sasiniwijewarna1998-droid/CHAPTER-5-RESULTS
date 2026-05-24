@@ -1,3 +1,4 @@
 # Refined Models
+Contains the 3D model after structural refinement and energy minimization (e.g., using GalaxyRefine or 3Drefine).
 
-Contains refined vaccine construct structures generated after structural optimization and energy minimization procedures.
+**Required File:** `refined_model_galaxyrefine.pdb`
