@@ -1,3 +1,4 @@
-# CTL Epitopes
+# Cytotoxic T Lymphocyte (CTL) Epitopes
+Contains the initial list of predicted MHC Class I (CTL) epitopes.
 
-Contains Cytotoxic T Lymphocyte (CTL) epitope predictions generated using NetCTL and related MHC-I processing tools, including antigenicity and toxicity screening outputs.
+**Required File:** `5.6.2_CTL_epitopes_predicted.csv`
