@@ -1,3 +1,4 @@
 # Summary Reports
+This folder contains the documentation of the data retrieval methodology, search queries, and total initial sequence counts.
 
-This folder contains data retrieval summaries and sequence collection reports.
+**Required File:** `data_retrieval_summary.xlsx`
