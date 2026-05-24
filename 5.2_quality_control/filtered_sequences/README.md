@@ -1,3 +1,4 @@
 # Filtered Sequences
+Contains the final, high-quality sequences after removing incomplete sequences, ambiguities, and redundant strains.
 
-Contains filtered FASTA sequences after removing incomplete and low-quality records.
+**Required File:** `filtered_sequences.fasta`
