@@ -1,3 +1,4 @@
 # Figures
+Contains visual representations of the physicochemical properties, such as the Kyte-Doolittle hydrophobicity plot.
 
-Contains graphical representations and visual summaries of physicochemical properties generated from ProtParam and associated analyses.
+**Included File:** `physicochemical_properties_plot.png`
