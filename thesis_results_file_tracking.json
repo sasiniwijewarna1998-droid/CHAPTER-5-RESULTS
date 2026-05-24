@@ -1,1 +1,142 @@
-
+[
+  {
+    "issue_number": 1,
+    "section": "5.1",
+    "title": "Study Design and Viral Genomic Data Retrieval",
+    "description": "Raw data retrieval for Dengue and Zika viruses from NCBI/UniProt.",
+    "files_available": [],
+    "files_missing": [
+      "dengue_zika_raw_sequences.fasta",
+      "accession_numbers_list.csv",
+      "data_retrieval_summary.xlsx"
+    ]
+  },
+  {
+    "issue_number": 2,
+    "section": "5.2",
+    "title": "Sequence Quality Control and Filtration",
+    "description": "Filtering out incomplete, redundant, or low-quality sequences.",
+    "files_available": [],
+    "files_missing": [
+      "filtered_sequences.fasta",
+      "cd_hit_redundancy_report.txt",
+      "qc_filtration_logs.txt"
+    ]
+  },
+  {
+    "issue_number": 3,
+    "section": "5.3",
+    "title": "Multiple Sequence Alignment and Identifying Conservation",
+    "description": "Aligning sequences to find conserved domains across Dengue and Zika.",
+    "files_available": [
+      "aligned_dengue_zika.fasta"
+    ],
+    "files_missing": [
+      "consensus_sequence.fasta",
+      "conservation_entropy_plot.png"
+    ]
+  },
+  {
+    "issue_number": 4,
+    "section": "5.4",
+    "title": "Phylogenetic Analysis",
+    "description": "Evolutionary relationship and clustering of the viral sequences.",
+    "files_available": [
+      "output.treefile",
+      "output.iqtree",
+      "output.log",
+      "output.mldist"
+    ],
+    "files_missing": [
+      "annotated_phylogenetic_tree.pdf",
+      "annotated_phylogenetic_tree.png"
+    ]
+  },
+  {
+    "issue_number": 5,
+    "section": "5.5",
+    "title": "Physicochemical Profiling of Conserved Domains",
+    "description": "Expasy ProtParam profiling (Molecular weight, pI, instability, etc.).",
+    "files_available": [],
+    "files_missing": [
+      "conserved_domains_protparam.csv",
+      "physicochemical_properties_plot.png"
+    ]
+  },
+  {
+    "issue_number": 6,
+    "section": "5.6",
+    "title": "Epitope Screening and Selection (B-cell, CTL, HTL)",
+    "description": "Prediction of immunogenic epitopes and filtering by antigenicity, allergenicity, and toxicity.",
+    "files_available": [],
+    "files_missing": [
+      "5.6.1_B_cell_epitopes_predicted.csv",
+      "5.6.2_CTL_epitopes_predicted.csv",
+      "5.6.3_HTL_epitopes_predicted.csv",
+      "final_filtered_overlapped_epitopes.xlsx"
+    ]
+  },
+  {
+    "issue_number": 7,
+    "section": "5.7",
+    "title": "Multi-Epitope Vaccine Assembly and Physicochemical Profiling",
+    "description": "Linking epitopes with adjuvants/linkers and checking the final construct.",
+    "files_available": [],
+    "files_missing": [
+      "vaccine_construct_sequence.fasta",
+      "vaccine_construct_protparam_vaxijen.txt",
+      "construct_diagram.png"
+    ]
+  },
+  {
+    "issue_number": 8,
+    "section": "5.8",
+    "title": "Structural Modeling, Refinement, and Validation",
+    "description": "2D and 3D modeling of the vaccine construct, refinement, and Ramachandran validation.",
+    "files_available": [],
+    "files_missing": [
+      "secondary_structure_prediction.png",
+      "unrefined_model.pdb",
+      "refined_model_galaxyrefine.pdb",
+      "ramachandran_plot.png",
+      "prosa_z_score_plot.png"
+    ]
+  },
+  {
+    "issue_number": 9,
+    "section": "5.9",
+    "title": "Conformational Epitope Mapping",
+    "description": "Mapping 3D structural B-cell epitopes using ElliPro.",
+    "files_available": [],
+    "files_missing": [
+      "conformational_epitopes_ellipro.csv",
+      "conformational_epitopes_3D_view.png"
+    ]
+  },
+  {
+    "issue_number": 10,
+    "section": "5.10",
+    "title": "Molecular Docking Analysis",
+    "description": "Docking the vaccine construct against immune receptors (e.g., TLR2/TLR4).",
+    "files_available": [],
+    "files_missing": [
+      "receptor_tlr.pdb",
+      "docked_complex_haddock.pdb",
+      "docking_interaction_summary.csv",
+      "docking_ligplot_interactions.png"
+    ]
+  },
+  {
+    "issue_number": 11,
+    "section": "5.11",
+    "title": "In Silico Restriction Cloning and Codon Optimization",
+    "description": "Reverse translation, GC content optimization (JCat), and plasmid mapping.",
+    "files_available": [],
+    "files_missing": [
+      "codon_optimized_dna.fasta",
+      "jcat_optimization_report.txt",
+      "in_silico_cloning_plasmid_map.png",
+      "snapgene_construct.dna"
+    ]
+  }
+]
