@@ -1,3 +1,4 @@
-# Data Retrieval
+# Raw Sequences
+This folder contains the initial, unfiltered FASTA sequences retrieved from the databases prior to quality control and redundancy filtering.
 
-Contains raw genomic datasets, accession numbers, and retrieval summaries.
+**Required File:** `dengue_zika_raw_sequences.fasta`
