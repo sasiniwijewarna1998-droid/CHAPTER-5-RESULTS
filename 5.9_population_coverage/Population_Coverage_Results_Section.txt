@@ -1,0 +1,130 @@
+================================================================================
+POPULATION COVERAGE ANALYSIS - RESULTS SECTION
+(Insert as Section 5.X between Epitope Selection and Vaccine Assembly)
+================================================================================
+
+5.X Population Coverage Analysis
+
+Population coverage analysis was performed using the IEDB Population Coverage
+Tool (v3.0.2) to evaluate the proportion of individuals in target populations
+expected to respond to the selected epitope ensemble. The analysis considered
+28 HLA Class I alleles (representing 12 MHC-I supertypes: A1, A2, A3, A24,
+A26, B7, B8, B27, B39, B44, B58, B62) and 23 HLA Class II alleles (spanning
+DRB1, DRB3, DRB4, DRB5, DPA1, and DQA1 loci). Coverage was assessed for four
+target populations: World, South Asia, Southeast Asia, and Sri Lanka.
+
+5.X.1 MHC Class I (CTL Epitope) Coverage
+
+The 15 selected CTL epitopes collectively provided high population coverage
+across the global population and Southeast Asia (Table 5.X). The world
+population showed 98.20% coverage, with an average of 10.13 epitope-HLA
+interactions per individual and a PC90 value of 4.24 (i.e., 90% of the
+population would recognize at least 4 epitopes). Southeast Asia demonstrated
+96.10% coverage (average hits = 9.39, PC90 = 2.96), while South Asia reached
+91.18% coverage (average hits = 6.97, PC90 = 2.09). Sri Lanka showed a lower
+Class I coverage of 52.39% (average hits = 2.39, PC90 = 0.42); however, this
+is attributable to the limited availability of Sri Lankan HLA Class I
+frequency data in the IEDB Allele Frequency Database rather than true
+immunological insufficiency. India, as a South Asian comparator with more
+comprehensive HLA typing data, showed 87.51% Class I coverage.
+
+Table 5.X: MHC Class I Population Coverage of Selected CTL Epitopes
+
+Population          Coverage (%)   Average Hits   PC90
+-------------------------------------------------------
+World               98.20          10.13          4.24
+South Asia          91.18           6.97          2.09
+Southeast Asia      96.10           9.39          2.96
+Sri Lanka           52.39*          2.39          0.42
+India               87.51           6.28          1.60
+
+*Limited HLA frequency data available in IEDB for this population.
+PC90: minimum number of epitope-HLA interactions recognized by 90% of the
+population.
+
+5.X.2 MHC Class II (HTL Epitope) Coverage
+
+The 15 selected HTL epitopes achieved exceptionally high Class II coverage
+across all populations with available data (Table 5.X). Global coverage
+reached 99.68%, with an average of 49.87 epitope-HLA interactions per
+individual and a PC90 of 34.79. South Asia demonstrated the highest
+regional coverage at 99.74% (average hits = 46.11, PC90 = 32.47),
+comparable to India alone at 99.74% (average hits = 46.00, PC90 = 32.39).
+Southeast Asia showed 94.53% coverage (average hits = 27.81, PC90 = 17.25).
+HLA Class II frequency data for Sri Lanka was not available in the IEDB
+database; therefore, coverage for this population could not be independently
+assessed. Given that South Asia as a whole (which encompasses Sri Lanka)
+achieved 99.74% Class II coverage, a similarly high coverage for the Sri
+Lankan population is expected.
+
+Table 5.X: MHC Class II Population Coverage of Selected HTL Epitopes
+
+Population          Coverage (%)   Average Hits   PC90
+-------------------------------------------------------
+World               99.68          49.87          34.79
+South Asia          99.74          46.11          32.47
+Southeast Asia      94.53          27.81          17.25
+Sri Lanka           N/A**          N/A**          N/A**
+India               99.74          46.00          32.39
+
+**No HLA Class II frequency data available for Sri Lanka in the IEDB
+Allele Frequency Database.
+
+5.X.3 Combined (Class I + II) Population Coverage
+
+When MHC Class I and Class II coverage were combined, near-complete population
+coverage was achieved for all regions with comprehensive HLA data (Table 5.X).
+The global combined coverage was 99.99%, with South Asia at 99.98% (average
+hits = 53.07, PC90 = 32.63) and Southeast Asia at 99.79% (average hits = 37.20,
+PC90 = 18.86). The combined coverage for Sri Lanka (52.39%) reflects only
+Class I data, as Class II frequency data is unavailable.
+
+Table 5.X: Combined Population Coverage of Selected CTL and HTL Epitopes
+
+Population          Coverage (%)   Average Hits   PC90
+-------------------------------------------------------
+World               99.99          60.01          37.66
+South Asia          99.98          53.07          32.63
+Southeast Asia      99.79          37.20          18.86
+Sri Lanka           52.39*         2.39           0.42
+India               99.97          52.28          32.30
+
+*Combined coverage reflects Class I only due to absence of Class II HLA
+data for Sri Lanka.
+
+5.X.4 HLA Allele Distribution
+
+A total of 51 unique HLA alleles were included in the population coverage
+analysis. The 28 Class I alleles spanned 12 HLA-A and 16 HLA-B alleles,
+representing the major MHC-I supertypes. The 23 Class II alleles covered
+the DRB1, DRB3, DRB4, DRB5, DPA1, and DQA1 loci. The complete list of
+HLA alleles is presented in Table 5.X.
+
+[Insert Table 5.X: Major HLA Alleles Included in Population Coverage Analysis]
+[Refer to HLA_Alleles_Included.csv]
+
+Figure 5.X presents the population coverage distribution for each analysis
+type (Class I, Class II, and Combined) across the target populations.
+
+[Insert Figure: Population_Coverage_BarChart.png]
+[Insert Figure: Population_Coverage_IEDB_Plots.png]
+
+================================================================================
+NOTE ON SRI LANKA DATA LIMITATION (Suggested Discussion paragraph)
+================================================================================
+
+The population coverage analysis for Sri Lanka was limited by the scarcity of
+HLA frequency data in the IEDB Allele Frequency Database. While Sri Lanka
+appears in the database for HLA Class I alleles, no Class II frequency data
+is available, and the Class I data itself is based on limited studies. As a
+result, the computed coverage for Sri Lanka (52.39% for Class I) likely
+underestimates the true coverage. This is supported by the observation that
+the broader South Asian population, which includes Sri Lanka, achieved 99.98%
+combined coverage. India, as a neighboring South Asian country with more
+comprehensive HLA typing, showed 99.97% combined coverage. Future studies
+incorporating Sri Lankan-specific HLA frequency data from the Allele Frequency
+Net Database or population-based HLA typing studies would provide more accurate
+coverage estimates. The high coverage observed across South Asia and Southeast
+Asia (the primary dengue-endemic regions of interest) supports the broad
+applicability of the selected epitope ensemble.
+
