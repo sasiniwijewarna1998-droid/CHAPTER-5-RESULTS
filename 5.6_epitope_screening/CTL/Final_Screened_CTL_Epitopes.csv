@@ -1,0 +1,21 @@
+Peptide,MHC_Supertypes,MHC_Count,Topology,Antigenicity,Toxicity
+KVASEGIKY,"A1, A26, A3, B62, B58",5,Extracellular,Probable ANTIGEN,Non-Toxic
+KVASEGFQY,"A1, A26, A3, B62, B58",5,Extracellular,Probable ANTIGEN,Non-Toxic
+WMVHRQWFF,"A1, A24, A26, B62, B58",5,Extracellular,Probable ANTIGEN,Non-Toxic
+RRDKRSVAL,"B7, B8, B27, B39",4,Extracellular,Probable ANTIGEN,Non-Toxic
+RREKRSVAL,"B7, B8, B27, B39",4,Extracellular,Probable ANTIGEN,Non-Toxic
+AQMWQLMYF,"A24, B44, B62, B27",4,Extracellular,Probable ANTIGEN,Non-Toxic
+NSTSTWVTY,"A1, A26, B62, B58",4,Extracellular,Probable ANTIGEN,Non-Toxic
+KTKNNDWDY,"A1, A26, B62, B58",4,Extracellular,Probable ANTIGEN,Non-Toxic
+KQWFLDLPL,"A2, B44, B62, B27",4,Extracellular,Probable ANTIGEN,Non-Toxic
+IAMTDTTPF,"A24, B62, B7, B58",4,Extracellular,Probable ANTIGEN,Non-Toxic
+YAQMWQLMY,"A1, A26, B62, B58",4,Extracellular,Probable ANTIGEN,Non-Toxic
+RMLINRFTM,"B62, B8, B27, B58",4,Extracellular,Probable ANTIGEN,Non-Toxic
+RTYSDPLAL,"A2, B7, B39, B58",4,Extracellular,Probable ANTIGEN,Non-Toxic
+RQWFFDLPL,"A2, B44, B62, B27",4,Extracellular,Probable ANTIGEN,Non-Toxic
+RQWFLDLPL,"A2, B44, B62, B27",4,Extracellular,Probable ANTIGEN,Non-Toxic
+KSAAIDGEY,"A1, A3, B62, B58",4,Extracellular,Probable ANTIGEN,Non-Toxic
+KRRLRTLIL,"B7, B8, B27",3,Extracellular,Probable ANTIGEN,Non-Toxic
+EVHTWTEQY,"A1, A26, B62",3,Extracellular,Probable ANTIGEN,Non-Toxic
+YMGEDGCWY,"A1, A26, B62",3,Extracellular,Probable ANTIGEN,Non-Toxic
+QMSSGNLLF,"A1, B62, B58",3,Extracellular,Probable ANTIGEN,Non-Toxic
